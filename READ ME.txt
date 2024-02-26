@@ -1,0 +1,18 @@
+Credit for this idea to StormBreaker Pirate (https://www.youtube.com/channel/UCdE8hXezYdH5fbfTdE7EJNA) 
+
+This code is specifically designed for use with the RetroArch emulator.
+
+Upon execution, the program will prompt you for a PID (Process ID) number, 
+which can be located in the Task Manager under the "Details" tab.
+
+Should you encounter issues with weapons or ammunition not being displayed, 
+it may be due to incorrect memory addresses. In such cases, we recommend using Cosmos Advanced (int16) 
+rather than Cheat Engine for address discovery.
+
+Please note that this software has been tested exclusively on the Japanese version of Metal Gear Solid.
+
+It's important to be aware that the executable file may be flagged by antivirus programs as a Trojan 
+due to its interaction with system memory. Rest assured, this is a false positive. 
+However, for your peace of mind, I encourage you to review the provided source code in PyCharm.
+
+More updates soon. 
